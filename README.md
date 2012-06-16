@@ -1,0 +1,4 @@
+LRLocationManager
+=================
+
+Wrapper for CLLocationManager
